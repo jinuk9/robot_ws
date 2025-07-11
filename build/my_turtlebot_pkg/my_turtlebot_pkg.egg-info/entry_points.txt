@@ -1,0 +1,5 @@
+[console_scripts]
+dd = my_turtlebot_pkg.dd:main
+move_turtle_key = my_turtlebot_pkg.move_turtle_key:main
+move_turtle_pub = my_turtlebot_pkg.move_turtle_pub:main
+

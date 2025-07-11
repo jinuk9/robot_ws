@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing my_turtlebot_pkg.egg-info/PKG-INFO
+writing dependency_links to my_turtlebot_pkg.egg-info/dependency_links.txt
+writing entry points to my_turtlebot_pkg.egg-info/entry_points.txt
+writing requirements to my_turtlebot_pkg.egg-info/requires.txt
+writing top-level names to my_turtlebot_pkg.egg-info/top_level.txt
+reading manifest file 'my_turtlebot_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_turtlebot_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/robot_ws/install/my_turtlebot_pkg/lib/python3.10/site-packages/my-turtlebot-pkg.egg-link (link to .)
+Installing move_turtle_pub script to /home/ubuntu/robot_ws/install/my_turtlebot_pkg/lib/my_turtlebot_pkg
+
+Installed /home/ubuntu/robot_ws/build/my_turtlebot_pkg
+running symlink_data

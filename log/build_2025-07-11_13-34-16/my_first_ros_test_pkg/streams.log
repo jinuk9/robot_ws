@@ -1,0 +1,20 @@
+[1.179s] Invoking command in '/home/ubuntu/robot_ws/build/my_first_ros_test_pkg': PYTHONPATH=/home/ubuntu/robot_ws/build/my_first_ros_test_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/robot_ws/install/my_first_ros_test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/robot_ws/build/my_first_ros_test_pkg/build --no-deps symlink_data
+[1.653s] running develop
+[1.988s] running egg_info
+[1.989s] writing my_first_ros_test_pkg.egg-info/PKG-INFO
+[1.991s] writing dependency_links to my_first_ros_test_pkg.egg-info/dependency_links.txt
+[1.992s] writing entry points to my_first_ros_test_pkg.egg-info/entry_points.txt
+[1.993s] writing requirements to my_first_ros_test_pkg.egg-info/requires.txt
+[1.993s] writing top-level names to my_first_ros_test_pkg.egg-info/top_level.txt
+[2.001s] reading manifest file 'my_first_ros_test_pkg.egg-info/SOURCES.txt'
+[2.003s] writing manifest file 'my_first_ros_test_pkg.egg-info/SOURCES.txt'
+[2.010s] running build_ext
+[2.015s] Creating /home/ubuntu/robot_ws/install/my_first_ros_test_pkg/lib/python3.10/site-packages/my-first-ros-test-pkg.egg-link (link to .)
+[2.015s] Installing helloworld_publisher script to /home/ubuntu/robot_ws/install/my_first_ros_test_pkg/lib/my_first_ros_test_pkg
+[2.015s] Installing helloworld_subscriber script to /home/ubuntu/robot_ws/install/my_first_ros_test_pkg/lib/my_first_ros_test_pkg
+[2.015s] Installing time_publisher script to /home/ubuntu/robot_ws/install/my_first_ros_test_pkg/lib/my_first_ros_test_pkg
+[2.015s] Installing time_subscriber script to /home/ubuntu/robot_ws/install/my_first_ros_test_pkg/lib/my_first_ros_test_pkg
+[2.015s] 
+[2.015s] Installed /home/ubuntu/robot_ws/build/my_first_ros_test_pkg
+[2.015s] running symlink_data
+[2.259s] Invoked command in '/home/ubuntu/robot_ws/build/my_first_ros_test_pkg' returned '0': PYTHONPATH=/home/ubuntu/robot_ws/build/my_first_ros_test_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/robot_ws/install/my_first_ros_test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/robot_ws/build/my_first_ros_test_pkg/build --no-deps symlink_data

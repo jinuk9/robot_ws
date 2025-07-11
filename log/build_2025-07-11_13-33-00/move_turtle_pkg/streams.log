@@ -1,0 +1,23 @@
+[2.609s] Invoking command in '/home/ubuntu/robot_ws/build/move_turtle_pkg': PYTHONPATH=/home/ubuntu/robot_ws/build/move_turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/robot_ws/install/move_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/robot_ws/build/move_turtle_pkg/build --no-deps symlink_data
+[3.318s] running develop
+[3.651s] running egg_info
+[3.652s] writing move_turtle_pkg.egg-info/PKG-INFO
+[3.652s] writing dependency_links to move_turtle_pkg.egg-info/dependency_links.txt
+[3.652s] writing entry points to move_turtle_pkg.egg-info/entry_points.txt
+[3.652s] writing requirements to move_turtle_pkg.egg-info/requires.txt
+[3.652s] writing top-level names to move_turtle_pkg.egg-info/top_level.txt
+[3.653s] reading manifest file 'move_turtle_pkg.egg-info/SOURCES.txt'
+[3.654s] writing manifest file 'move_turtle_pkg.egg-info/SOURCES.txt'
+[3.656s] running build_ext
+[3.658s] Creating /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/python3.10/site-packages/move-turtle-pkg.egg-link (link to .)
+[3.658s] Installing dist_turtle_action_server script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+[3.660s] Installing move_turtle_pub script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+[3.660s] Installing my_multi_thread script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+[3.661s] Installing my_service_server script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+[3.661s] Installing my_subscriber script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+[3.661s] Installing turtle_cmd_and_pose script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+[3.664s] Installing turtlesim_node script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+[3.664s] 
+[3.664s] Installed /home/ubuntu/robot_ws/build/move_turtle_pkg
+[3.664s] running symlink_data
+[4.160s] Invoked command in '/home/ubuntu/robot_ws/build/move_turtle_pkg' returned '0': PYTHONPATH=/home/ubuntu/robot_ws/build/move_turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/robot_ws/install/move_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/robot_ws/build/move_turtle_pkg/build --no-deps symlink_data

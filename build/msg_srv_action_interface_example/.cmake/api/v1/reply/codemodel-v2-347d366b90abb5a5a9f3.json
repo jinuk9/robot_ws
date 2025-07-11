@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-8bac1e388d7f61977d3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "msg_srv_action_interface_example__py",
+					"jsonFile" : "directory-msg_srv_action_interface_example__py-91f203e1982c17b8064b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/ubuntu/robot_ws/build/msg_srv_action_interface_example/msg_srv_action_interface_example__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "msg_srv_action_interface_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_msg_srv_action_interface_example_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_msg_srv_action_interface_example_egg-71481db0e7ab26bc460d.json",
+					"name" : "ament_cmake_python_build_msg_srv_action_interface_example_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_msg_srv_action_interface_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_msg_srv_action_interface_example-43646fbdc23592c7bba3.json",
+					"name" : "ament_cmake_python_symlink_msg_srv_action_interface_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example-696c9a617d8a196528ff.json",
+					"name" : "msg_srv_action_interface_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__cpp-a6cbdeee0b882bb8a7d7.json",
+					"name" : "msg_srv_action_interface_example__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "msg_srv_action_interface_example__py::@c661a0682503be72c7d8",
+					"jsonFile" : "target-msg_srv_action_interface_example__py-9d4f371388ebe9430db9.json",
+					"name" : "msg_srv_action_interface_example__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_generator_c-2e80819555d741413ea1.json",
+					"name" : "msg_srv_action_interface_example__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_generator_py-1a3b43631706e7c623d4.json",
+					"name" : "msg_srv_action_interface_example__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_c-9be80503c1c4d29da18f.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_c__pyext-ec902c9f6d2523b5efb5.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_cpp-b46b2d018f36f672264f.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_fastrtps_c-885e84ee297b26bbfb4b.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_fastrtps_c__pyext-2470690f5793f880eb67.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_fastrtps_cpp-cf84758b95cedf1af899.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_introspection_c-8451795a5be26fd2a7b1.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_introspection_c__pyext-c4671cbd641968138f34.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example__rosidl_typesupport_introspection_cpp-df51e80d86786f8c5e6d.json",
+					"name" : "msg_srv_action_interface_example__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "msg_srv_action_interface_example_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-msg_srv_action_interface_example_uninstall-b2dba8e25beffedca12c.json",
+					"name" : "msg_srv_action_interface_example_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-e7e723bf0c6b270d2140.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ubuntu/robot_ws/build/msg_srv_action_interface_example",
+		"source" : "/home/ubuntu/robot_ws/src/msg_srv_action_interface_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

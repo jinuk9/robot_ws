@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing topic_service_action_rclpy_example.egg-info/PKG-INFO
+writing dependency_links to topic_service_action_rclpy_example.egg-info/dependency_links.txt
+writing entry points to topic_service_action_rclpy_example.egg-info/entry_points.txt
+writing requirements to topic_service_action_rclpy_example.egg-info/requires.txt
+writing top-level names to topic_service_action_rclpy_example.egg-info/top_level.txt
+reading manifest file 'topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+writing manifest file 'topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages/topic-service-action-rclpy-example.egg-link (link to .)
+Installing argument script to /home/ubuntu/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+Installing calculator script to /home/ubuntu/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+Installing checker script to /home/ubuntu/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+Installing operator script to /home/ubuntu/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+
+Installed /home/ubuntu/robot_ws/build/topic_service_action_rclpy_example
+running symlink_data

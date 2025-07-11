@@ -1,0 +1,8 @@
+{
+  "package_name": "my_first_package_msgs",
+  "non_idl_tuples": [
+    "/home/ubuntu/robot_ws/src/my_first_package_msgs:msg/CmdAndPoseVel.msg",
+    "/home/ubuntu/robot_ws/src/my_first_package_msgs:srv/MultiSpawn.srv",
+    "/home/ubuntu/robot_ws/src/my_first_package_msgs:action/DistTurtle.action"
+  ]
+}

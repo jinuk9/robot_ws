@@ -1,0 +1,19 @@
+[1.102s] Invoking command in '/home/ubuntu/robot_ws/build/my_first_ros_rclpy_pkg': PYTHONPATH=/home/ubuntu/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/robot_ws/build/my_first_ros_rclpy_pkg/build --no-deps symlink_data
+[1.583s] running develop
+[1.872s] running egg_info
+[1.873s] writing my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+[1.875s] writing dependency_links to my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+[1.876s] writing entry points to my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+[1.877s] writing requirements to my_first_ros_rclpy_pkg.egg-info/requires.txt
+[1.877s] writing top-level names to my_first_ros_rclpy_pkg.egg-info/top_level.txt
+[1.880s] reading manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[1.881s] writing manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[1.884s] running build_ext
+[1.884s] Creating /home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my-first-ros-rclpy-pkg.egg-link (link to .)
+[1.886s] Installing helloworld_publisher script to /home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[1.887s] Installing helloworld_subscriber script to /home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[1.887s] Installing turtlesim_node script to /home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[1.888s] 
+[1.888s] Installed /home/ubuntu/robot_ws/build/my_first_ros_rclpy_pkg
+[1.889s] running symlink_data
+[1.930s] Invoked command in '/home/ubuntu/robot_ws/build/my_first_ros_rclpy_pkg' returned '0': PYTHONPATH=/home/ubuntu/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/robot_ws/build/my_first_ros_rclpy_pkg/build --no-deps symlink_data

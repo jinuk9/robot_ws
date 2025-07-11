@@ -1,0 +1,9 @@
+[console_scripts]
+dist_turtle_action_server = move_turtle_pkg.dist_turtle_action_server:main
+move_turtle_pub = move_turtle_pkg.move_turtle_pub:main
+my_multi_thread = move_turtle_pkg.my_multi_thread:main
+my_service_server = move_turtle_pkg.my_service_server:main
+my_subscriber = move_turtle_pkg.my_subscriber:main
+turtle_cmd_and_pose = move_turtle_pkg.turtle_cmd_and_pose:main
+turtlesim_node = move_turtle_pkg.turtlesim_node:main
+

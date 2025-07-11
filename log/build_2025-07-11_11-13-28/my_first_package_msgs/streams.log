@@ -1,0 +1,171 @@
+[0.016s] Invoking command in '/home/ubuntu/robot_ws/build/my_first_package_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_yolo_object_detection:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_dqn:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_camera:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking_vision:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking:/home/ubuntu/turtlebot3_ws/install/turtlebot3_aruco_tracker:/home/ubuntu/robot_ws/install/topic_service_action_rclpy_example:/home/ubuntu/robot_ws/install/my_turtlebot_pkg:/home/ubuntu/robot_ws/install/my_first_ros_test_pkg:/home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg:/home/ubuntu/robot_ws/install/move_turtle_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/robot_ws/build/my_first_package_msgs -- -j2 -l2
+[0.072s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_generator_c[0m
+[0.083s] [  2%] Built target my_first_package_msgs__cpp
+[0.088s] [ 12%] Built target my_first_package_msgs__rosidl_generator_c
+[0.102s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_cpp[0m
+[0.136s] [ 23%] Built target my_first_package_msgs__rosidl_typesupport_cpp
+[0.144s] [ 23%] Built target ament_cmake_python_symlink_my_first_package_msgs
+[0.155s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_introspection_c[0m
+[0.159s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.170s] [ 34%] Built target my_first_package_msgs__rosidl_typesupport_introspection_c
+[0.181s] [ 44%] Built target my_first_package_msgs__rosidl_typesupport_fastrtps_c
+[0.188s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_c[0m
+[0.192s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.205s] [ 55%] Built target my_first_package_msgs__rosidl_typesupport_fastrtps_cpp
+[0.207s] [ 65%] Built target my_first_package_msgs__rosidl_typesupport_c
+[0.223s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.256s] [ 76%] Built target my_first_package_msgs__rosidl_typesupport_introspection_cpp
+[0.293s] [ 76%] Built target my_first_package_msgs
+[0.336s] [ 78%] Built target my_first_package_msgs__py
+[0.358s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_generator_py[0m
+[0.386s] [ 87%] Built target my_first_package_msgs__rosidl_generator_py
+[0.406s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.430s] [ 91%] Built target my_first_package_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.455s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.477s] [ 95%] Built target my_first_package_msgs__rosidl_typesupport_introspection_c__pyext
+[0.498s] [35m[1mConsolidate compiler generated dependencies of target my_first_package_msgs__rosidl_typesupport_c__pyext[0m
+[0.523s] [100%] Built target my_first_package_msgs__rosidl_typesupport_c__pyext
+[0.565s] running egg_info
+[0.567s] writing my_first_package_msgs.egg-info/PKG-INFO
+[0.567s] writing dependency_links to my_first_package_msgs.egg-info/dependency_links.txt
+[0.568s] writing top-level names to my_first_package_msgs.egg-info/top_level.txt
+[0.570s] reading manifest file 'my_first_package_msgs.egg-info/SOURCES.txt'
+[0.570s] writing manifest file 'my_first_package_msgs.egg-info/SOURCES.txt'
+[0.593s] [100%] Built target ament_cmake_python_build_my_first_package_msgs_egg
+[0.604s] Invoked command in '/home/ubuntu/robot_ws/build/my_first_package_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_yolo_object_detection:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_dqn:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_camera:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking_vision:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking:/home/ubuntu/turtlebot3_ws/install/turtlebot3_aruco_tracker:/home/ubuntu/robot_ws/install/topic_service_action_rclpy_example:/home/ubuntu/robot_ws/install/my_turtlebot_pkg:/home/ubuntu/robot_ws/install/my_first_ros_test_pkg:/home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg:/home/ubuntu/robot_ws/install/move_turtle_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/robot_ws/build/my_first_package_msgs -- -j2 -l2
+[0.606s] Invoking command in '/home/ubuntu/robot_ws/build/my_first_package_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_yolo_object_detection:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_dqn:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_camera:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking_vision:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking:/home/ubuntu/turtlebot3_ws/install/turtlebot3_aruco_tracker:/home/ubuntu/robot_ws/install/topic_service_action_rclpy_example:/home/ubuntu/robot_ws/install/my_turtlebot_pkg:/home/ubuntu/robot_ws/install/my_first_ros_test_pkg:/home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg:/home/ubuntu/robot_ws/install/move_turtle_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/robot_ws/build/my_first_package_msgs
+[0.614s] -- Install configuration: ""
+[0.615s] -- Execute custom install script
+[0.615s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/ament_index/resource_index/rosidl_interfaces/my_first_package_msgs
+[0.616s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__functions.h
+[0.616s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__struct.h
+[0.616s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__type_support.h
+[0.616s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/dist_turtle.h
+[0.617s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/cmd_and_pose_vel.h
+[0.617s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__functions.h
+[0.617s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__struct.h
+[0.617s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__type_support.h
+[0.618s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.618s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__functions.h
+[0.618s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__struct.h
+[0.619s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__type_support.h
+[0.619s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/multi_spawn.h
+[0.619s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/library_path.sh
+[0.620s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/library_path.dsv
+[0.620s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__rosidl_typesupport_fastrtps_c.h
+[0.621s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__rosidl_typesupport_fastrtps_c.h
+[0.621s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.621s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_fastrtps_c.h
+[0.622s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__rosidl_typesupport_introspection_c.h
+[0.623s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__rosidl_typesupport_introspection_c.h
+[0.623s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.623s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_introspection_c.h
+[0.624s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__builder.hpp
+[0.624s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__struct.hpp
+[0.624s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__traits.hpp
+[0.625s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__type_support.hpp
+[0.625s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/dist_turtle.hpp
+[0.625s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/cmd_and_pose_vel.hpp
+[0.625s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__builder.hpp
+[0.625s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__struct.hpp
+[0.626s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__traits.hpp
+[0.626s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__type_support.hpp
+[0.626s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.626s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__builder.hpp
+[0.626s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__struct.hpp
+[0.626s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__traits.hpp
+[0.627s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__type_support.hpp
+[0.627s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/multi_spawn.hpp
+[0.628s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__rosidl_typesupport_fastrtps_cpp.hpp
+[0.629s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__rosidl_typesupport_fastrtps_cpp.hpp
+[0.629s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.629s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[0.629s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/action/detail/dist_turtle__rosidl_typesupport_introspection_cpp.hpp
+[0.630s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/msg/detail/cmd_and_pose_vel__rosidl_typesupport_introspection_cpp.hpp
+[0.630s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/include/my_first_package_msgs/my_first_package_msgs/srv/detail/multi_spawn__rosidl_typesupport_introspection_cpp.hpp
+[0.630s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/pythonpath.sh
+[0.630s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/pythonpath.dsv
+[0.630s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[0.631s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.631s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.631s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[0.632s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/__init__.py
+[0.632s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/_my_first_package_msgs_s.ep.rosidl_typesupport_c.c
+[0.632s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/_my_first_package_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.632s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/_my_first_package_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.632s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/action/__init__.py
+[0.633s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/action/_dist_turtle.py
+[0.633s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/action/_dist_turtle_s.c
+[0.633s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/libmy_first_package_msgs__rosidl_generator_py.so
+[0.633s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/msg/__init__.py
+[0.633s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/msg/_cmd_and_pose_vel.py
+[0.634s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/msg/_cmd_and_pose_vel_s.c
+[0.634s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/my_first_package_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.634s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/my_first_package_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.634s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/my_first_package_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.635s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/srv/__init__.py
+[0.635s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/srv/_multi_spawn.py
+[0.635s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/srv/_multi_spawn_s.c
+[0.635s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/my_first_package_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.636s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/my_first_package_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.636s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/my_first_package_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.636s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/msg/CmdAndPoseVel.idl
+[0.636s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/srv/MultiSpawn.idl
+[0.637s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/action/DistTurtle.idl
+[0.637s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/msg/CmdAndPoseVel.msg
+[0.637s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/srv/MultiSpawn.srv
+[0.637s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/srv/MultiSpawn_Request.msg
+[0.637s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/srv/MultiSpawn_Response.msg
+[0.638s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/action/DistTurtle.action
+[0.638s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/ament_index/resource_index/package_run_dependencies/my_first_package_msgs
+[0.638s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/ament_index/resource_index/parent_prefix_path/my_first_package_msgs
+[0.638s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/ament_prefix_path.sh
+[0.639s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/ament_prefix_path.dsv
+[0.639s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/path.sh
+[0.639s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/environment/path.dsv
+[0.639s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/local_setup.bash
+[0.639s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/local_setup.sh
+[0.639s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/local_setup.zsh
+[0.640s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/local_setup.dsv
+[0.640s] -- Symlinking: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/package.dsv
+[0.652s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/ament_index/resource_index/packages/my_first_package_msgs
+[0.652s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/rosidl_cmake-extras.cmake
+[0.652s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.652s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.653s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.653s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.653s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.653s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.654s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgsConfig.cmake
+[0.654s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgsConfig-version.cmake
+[0.654s] -- Up-to-date symlink: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/package.xml
+[0.654s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_generator_c.so
+[0.655s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_typesupport_fastrtps_c.so
+[0.655s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_typesupport_introspection_c.so
+[0.655s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_typesupport_c.so
+[0.655s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.656s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_typesupport_introspection_cpp.so
+[0.656s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_typesupport_cpp.so
+[0.699s] Listing '/home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs'...
+[0.699s] Listing '/home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/action'...
+[0.699s] Listing '/home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/msg'...
+[0.699s] Listing '/home/ubuntu/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages/my_first_package_msgs/srv'...
+[0.703s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/lib/libmy_first_package_msgs__rosidl_generator_py.so
+[0.704s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_generator_cExport.cmake
+[0.704s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.704s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.704s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.704s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.704s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.705s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_cExport.cmake
+[0.705s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.705s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_generator_cppExport.cmake
+[0.705s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.705s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.705s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.705s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.706s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_cppExport.cmake
+[0.706s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/my_first_package_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.706s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_generator_pyExport.cmake
+[0.707s] -- Up-to-date: /home/ubuntu/robot_ws/install/my_first_package_msgs/share/my_first_package_msgs/cmake/export_my_first_package_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.713s] Invoked command in '/home/ubuntu/robot_ws/build/my_first_package_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_yolo_object_detection:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_dqn:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/ubuntu/turtlebot3_ws/install/turtlebot3_autorace_camera:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking_vision:/home/ubuntu/turtlebot3_ws/install/turtlebot3_automatic_parking:/home/ubuntu/turtlebot3_ws/install/turtlebot3_aruco_tracker:/home/ubuntu/robot_ws/install/topic_service_action_rclpy_example:/home/ubuntu/robot_ws/install/my_turtlebot_pkg:/home/ubuntu/robot_ws/install/my_first_ros_test_pkg:/home/ubuntu/robot_ws/install/my_first_ros_rclpy_pkg:/home/ubuntu/robot_ws/install/move_turtle_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/robot_ws/build/my_first_package_msgs

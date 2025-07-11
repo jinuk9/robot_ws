@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing move_turtle_pkg.egg-info/PKG-INFO
+writing dependency_links to move_turtle_pkg.egg-info/dependency_links.txt
+writing entry points to move_turtle_pkg.egg-info/entry_points.txt
+writing requirements to move_turtle_pkg.egg-info/requires.txt
+writing top-level names to move_turtle_pkg.egg-info/top_level.txt
+reading manifest file 'move_turtle_pkg.egg-info/SOURCES.txt'
+writing manifest file 'move_turtle_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/python3.10/site-packages/move-turtle-pkg.egg-link (link to .)
+Installing dist_turtle_action_server script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+Installing move_turtle_pub script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+Installing my_multi_thread script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+Installing my_service_server script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+Installing my_subscriber script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+Installing turtle_cmd_and_pose script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+Installing turtlesim_node script to /home/ubuntu/robot_ws/install/move_turtle_pkg/lib/move_turtle_pkg
+
+Installed /home/ubuntu/robot_ws/build/move_turtle_pkg
+running symlink_data

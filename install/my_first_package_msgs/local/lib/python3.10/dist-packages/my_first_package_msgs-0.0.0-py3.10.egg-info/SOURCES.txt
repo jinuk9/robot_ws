@@ -1,0 +1,1 @@
+/home/ubuntu/robot_ws/build/my_first_package_msgs/ament_cmake_python/my_first_package_msgs/my_first_package_msgs.egg-info/SOURCES.txt

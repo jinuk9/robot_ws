@@ -1,0 +1,6 @@
+[console_scripts]
+helloworld_publisher = my_first_ros_test_pkg.helloworld_publisher:main
+helloworld_subscriber = my_first_ros_test_pkg.helloworld_subscriber:main
+time_publisher = my_first_ros_test_pkg.time_publisher:main
+time_subscriber = my_first_ros_test_pkg.time_subscriber:main
+
